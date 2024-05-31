@@ -1,0 +1,2 @@
+a) Ele multiplica todos os valores da lista "bar" por 2, depois tira 20 de cada, depois filtra somente os valores divisíveis por 3, depois soma 10, e por ultimo soma todos os valores da lista que restaram + 1 para cada somatória
+b) 404 do tipo número
